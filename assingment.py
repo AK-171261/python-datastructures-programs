@@ -1,4 +1,4 @@
-# lcm
+# lcm using
 import sys
 
 
